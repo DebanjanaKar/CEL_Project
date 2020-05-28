@@ -1,0 +1,9 @@
+SUICIDE_ATTACK : এই
+AFTER : নির্বিঘ্নেই পড়তে পারবেন|পড়তে|ব্লকারটি|ফেলেছেন তিনি
+SPEED-ARG : আনইন্সটল
+PLACE-ARG : নিন হুঙ্কার,|শিবিরে
+CASUALTIES-ARG : অন্যদের
+TIME-ARG : একটু
+REASON-ARG : যায়,|উষ্ণতা হারিয়ে যায়
+
+
